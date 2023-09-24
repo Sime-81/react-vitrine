@@ -41,7 +41,7 @@ const Home = () => {
               drag
               dragConstraints={{
                 left: -250,
-                right: 950,
+                right: 300,
                 top: -200,
                 bottom: 250,
               }}
@@ -52,7 +52,7 @@ const Home = () => {
               drag
               dragConstraints={{
                 left: -250,
-                right: 950,
+                right: 420,
                 top: -200,
                 bottom: 250,
               }}
